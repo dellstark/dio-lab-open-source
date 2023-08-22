@@ -14,4 +14,4 @@ Essa contribuição faz parte do Perfil READ-ME.
 
 ## Jornada no GitHub
 
-![GitHub Stats](https://github.com/dellstark)
+![GitHub Profile](https://github.com/dellstark)
